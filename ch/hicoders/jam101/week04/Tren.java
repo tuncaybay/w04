@@ -3,7 +3,6 @@ package ch.hicoders.jam101.week04;
 import ch.hicoders.jam101.week04.tren.Vagon;
 import java.util.Scanner;
 
-// Tren ödevi
 
 public class Tren {
 
